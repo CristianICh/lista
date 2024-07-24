@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, ESPN
+#EXTINF:-1, TNT
 https://8541752.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=19e030f65c7db4616fedb8c8856958ac97916f52-78-1721868800-1721832800
+
+#EXTM3U
+#EXTINF:-1, ESPN
+https://vals88.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=995f871f512315eda27364b156a8bec5ba56f4a9-5d-1721872144-1721836144
