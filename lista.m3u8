@@ -1,6 +1,21 @@
 #EXTM3U
 #EXTINF:-1, TNT Sport
-https://050.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=3b7016c95f8cfff904e043cec8f533ab50ce0b73-b3-1721883522-1721847522
+https://d2.dramaticreadings.com:999/hls/captntarg.m3u8?md5=bDfmZ1eD2AWdvzMyCdwfng&expires=1722206302
+
+
+#EXTM3U
+#EXTINF:-1, TNT Sport (opcion2)
+https://n6.dramaticreadings.com:999/hls/tntarg.m3u8?md5=vPxLcjKBICyh5rpLLn8-cA&expires=1722206353
+
+
+#EXTM3U
+#EXTINF:-1, TNT Sport (opcion3)
+https://6200.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=3eb4424d5269109a589a8c60f36ef71cec3f5358-6b-1722234387-1722198387
+
+
+#EXTM3U
+#EXTINF:-1, TNT Sport (opcion4 estable)
+https://6200.pricesaskeloadsc.com/tntsports_argentina/tracks-v1a1/mono.m3u8?token=3eb4424d5269109a589a8c60f36ef71cec3f5358-6b-1722234387-1722198387
 
 #EXTM3U
 #EXTINF:-1, ESPN Premium
@@ -16,7 +31,7 @@ https://conmx11.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=e6
 https://gfbdtp8er926573sjzywha.cdnexpertise.net:8443/hls/313bwweg2v1km.m3u8?s=nxzeE5XbkezG-x9B24MrGQ&e=1722220311
 
 
-
 #EXTM3U
-#EXTINF:120, Mi villano favorito 4
-https://streamwish.to/e/dpyklv5qxjll
+#EXTINF:-1, ESPN Premium (opcion4)
+https://gfbdtp8er926573sjzywha.cdnexpertise.net:8443/hls/313bwweg2v1km.m3u8?s=dppAchy-WxxWgC_ufM_TCQ&e=1722221025
+
