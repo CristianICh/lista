@@ -8,5 +8,15 @@ https://pl2.dramaticreadings.com:999/hls/capespnprem.m3u8?md5=9WM71H619DsWdNQU3Z
 
 
 #EXTM3U
+#EXTINF:-1, ESPN Premium (opcion2)
+https://conmx11.pricesaskeloadsc.com/espn_premium/tracks-v1a1/mono.m3u8?token=e64162d7cc948ccc364713657e41c9ac04634e17-1c-1722233671-1722197671
+
+#EXTM3U
+#EXTINF:-1, ESPN Premium (opcion3)
+https://gfbdtp8er926573sjzywha.cdnexpertise.net:8443/hls/313bwweg2v1km.m3u8?s=nxzeE5XbkezG-x9B24MrGQ&e=1722220311
+
+
+
+#EXTM3U
 #EXTINF:120, Mi villano favorito 4
 https://streamwish.to/e/dpyklv5qxjll
